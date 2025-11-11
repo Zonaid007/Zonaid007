@@ -60,10 +60,10 @@ Implemented a **Double Deep Q-Network** from scratch using PyTorch that masters 
 
 ### 🎯 **What I'm Looking For**
 
-- **Role**: New Graduate Software Engineer (2025)
+- **Role**: New Graduate Software Engineer (2026)
 - **Location**: USA (H-1B sponsor) | UK (Skilled Worker) | EU (Blue Card)
 - **Focus**: Backend, Distributed Systems, ML Infrastructure
-- **Start Date**: August/September 2025
+- **Start Date**: November/December 2025
 - **Visa Status**: Eligible for STEM OPT (3 years)
 
 ---

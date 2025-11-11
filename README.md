@@ -6,7 +6,7 @@
 
 ### 💼 **About Me**
 
-I'm a final-year Computer Science student passionate about building **scalable systems** and **intelligent applications**. Currently mastering data structures & algorithms while crafting production-ready projects that solve real-world problems. Actively seeking **new graduate software engineering roles** (2025) in top tech companies across the USA, UK, and EU.
+I'm a final-year Computer Science student passionate about building **scalable systems** and **intelligent applications**. Currently mastering data structures & algorithms while crafting production-ready projects that solve real-world problems. Actively seeking **new graduate software engineering roles** (2025) in top tech companies across the USA, UK, EU, around the globe.
 
 **Core Strengths**: Python, System Design, Cloud Deployment | **LeetCode**: 150+ problems solved | **Projects**: 3 production-grade apps
 
